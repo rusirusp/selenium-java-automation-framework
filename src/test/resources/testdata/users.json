@@ -1,0 +1,10 @@
+{
+  "OrangeHRM": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "OrangeHRM_Invalid": {
+    "username": "Admin",
+    "password": "admin"
+  }
+}
